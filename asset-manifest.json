@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/RecipeApp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/RecipeApp/static/js/main.dd3fd09c.chunk.js",
-    "main.js.map": "/RecipeApp/static/js/main.dd3fd09c.chunk.js.map",
+    "main.css": "/RecipeApp/static/css/main.a0a0fb1f.chunk.css",
+    "main.js": "/RecipeApp/static/js/main.eb219e39.chunk.js",
+    "main.js.map": "/RecipeApp/static/js/main.eb219e39.chunk.js.map",
     "runtime-main.js": "/RecipeApp/static/js/runtime-main.44346485.js",
     "runtime-main.js.map": "/RecipeApp/static/js/runtime-main.44346485.js.map",
-    "static/js/2.eb0a154e.chunk.js": "/RecipeApp/static/js/2.eb0a154e.chunk.js",
-    "static/js/2.eb0a154e.chunk.js.map": "/RecipeApp/static/js/2.eb0a154e.chunk.js.map",
+    "static/js/2.19f63eb0.chunk.js": "/RecipeApp/static/js/2.19f63eb0.chunk.js",
+    "static/js/2.19f63eb0.chunk.js.map": "/RecipeApp/static/js/2.19f63eb0.chunk.js.map",
     "index.html": "/RecipeApp/index.html",
-    "precache-manifest.0435d6a38d605b69562a0458a4b40309.js": "/RecipeApp/precache-manifest.0435d6a38d605b69562a0458a4b40309.js",
+    "precache-manifest.7d0d24643912f760a0677a4ec34e932a.js": "/RecipeApp/precache-manifest.7d0d24643912f760a0677a4ec34e932a.js",
     "service-worker.js": "/RecipeApp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/RecipeApp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb0a154e.chunk.js.LICENSE.txt": "/RecipeApp/static/js/2.eb0a154e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/RecipeApp/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a0a0fb1f.chunk.css.map": "/RecipeApp/static/css/main.a0a0fb1f.chunk.css.map",
+    "static/js/2.19f63eb0.chunk.js.LICENSE.txt": "/RecipeApp/static/js/2.19f63eb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44346485.js",
-    "static/js/2.eb0a154e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dd3fd09c.chunk.js"
+    "static/js/2.19f63eb0.chunk.js",
+    "static/css/main.a0a0fb1f.chunk.css",
+    "static/js/main.eb219e39.chunk.js"
   ]
 }
