@@ -18,7 +18,16 @@
     min-width: 100%;
 }
 
+.imageContainer{
+    border-radius: 5%;
+
+    padding: 5px;
+    background:white;
+}
+
 .imageRound{
     border-radius: 5%;
     margin:auto;
+    width:450px;
+    height: 450px;
 }
